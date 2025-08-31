@@ -23,6 +23,6 @@ Para compilar o programa é necessário possuir instalado o GCC e utilizar o com
 
 ```./main```
 
-
-
+<br>
+<br>
 **Criado por Celso Lopes Junior**
